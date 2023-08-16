@@ -121,6 +121,7 @@
 		</inspectorTabs>
 		<building>
 			<spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+			<paintable>true</paintable>
 		</building>
 		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
 		<comps>
@@ -1249,6 +1250,7 @@
 		</comps>
 		<building>
 			<uninstallWork>300</uninstallWork>
+			<paintable>true</paintable>
 		</building>
 		<researchPrerequisites>
 			<li>Light_B1</li>
@@ -1303,6 +1305,7 @@
 		</placeWorkers>
 		<building>
 			<uninstallWork>300</uninstallWork>
+			<paintable>true</paintable>
 		</building>
 		<rotatable>true</rotatable>
 		<designationHotKey>Misc2</designationHotKey>
