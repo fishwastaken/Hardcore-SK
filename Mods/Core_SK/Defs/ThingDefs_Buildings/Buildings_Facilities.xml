@@ -18,6 +18,7 @@
 		</thingCategories>
 		<building>
 			<uninstallWork>800</uninstallWork>
+			<paintable>true</paintable>
 		</building>
 	</ThingDef>
 
