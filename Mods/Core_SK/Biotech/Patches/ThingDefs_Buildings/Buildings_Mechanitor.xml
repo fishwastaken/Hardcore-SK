@@ -87,12 +87,6 @@
 					</costList>
 				</value>
 			</li>
-			<li Class="PatchOperationAdd">
-				<xpath>Defs/ThingDef[defName="MechGestator"]/building</xpath>
-				<value>
-					<paintable>true</paintable>
-				</value>
-			</li>
 
 			<!-- LargeMechGestator patches -->
 			<li Class="PatchOperationReplace">
@@ -129,6 +123,12 @@
 						<ElectronicComponents>1</ElectronicComponents>
 						<Electronics>2</Electronics>
 					</costList>
+				</value>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="SubcoreEncoder"]/building</xpath>
+				<value>
+					<paintable>true</paintable>
 				</value>
 			</li>
 
