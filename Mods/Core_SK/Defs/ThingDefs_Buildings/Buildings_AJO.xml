@@ -85,6 +85,7 @@
 		</stuffCategories>
 		<building>
 			<joyKind>Gaming_Cerebral</joyKind>
+			<paintable>true</paintable>
 		</building>
 		<costStuffCount>75</costStuffCount>
 		<costList>
@@ -132,6 +133,7 @@
 		</stuffCategories>
 		<building>
 			<joyKind>Gaming_Cerebral</joyKind>
+			<paintable>true</paintable>
 		</building>
 		<costStuffCount>90</costStuffCount>
 		<pathCost>70</pathCost>
@@ -181,6 +183,7 @@
 		<pathCost>70</pathCost>
 		<building>
 			<joyKind>Gaming_Cerebral</joyKind>
+			<paintable>true</paintable>
 		</building>
 		<passability>PassThroughOnly</passability>
 		<designationCategory>Joy</designationCategory>
@@ -267,6 +270,7 @@
 		</costList>
 		<building>
 			<joyKind>Meditative</joyKind>
+			<paintable>true</paintable>
 		</building>
 		<pathCost>70</pathCost>
 		<passability>PassThroughOnly</passability>
