@@ -452,6 +452,7 @@
 		</costList>
 		<building>
 			<destroySound>BuildingDestroyed_Metal_Small</destroySound>
+			<paintable>true</paintable>
 		</building>
 		<comps>
 			<li Class="CompProperties_Flickable"/>
@@ -515,6 +516,7 @@
 		</costList>
 		<building>
 			<destroySound>BuildingDestroyed_Metal_Big</destroySound>
+			<paintable>true</paintable>
 		</building>
 		<interactionCellOffset>(0,0,1)</interactionCellOffset>
 		<hasInteractionCell>true</hasInteractionCell>
@@ -592,6 +594,7 @@
 			<wantsHopperAdjacent>true</wantsHopperAdjacent>
 			<nutritionCostPerDispense>0.3</nutritionCostPerDispense>
 			<soundDispense>DispensePaste</soundDispense>
+			<paintable>true</paintable>
 		</building>
 		<comps>
 			<li Class="CompProperties_Flickable"/>
