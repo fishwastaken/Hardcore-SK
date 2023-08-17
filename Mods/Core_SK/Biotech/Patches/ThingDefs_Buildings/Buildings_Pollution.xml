@@ -48,6 +48,12 @@
 					</costList>
 				</value>
 			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName="WastepackAtomizer"]/building</xpath>
+				<value>
+					<paintable>true</paintable>
+				</value>
+			</li>
 
 			<!-- ToxifierGenerator patches -->
 			<li Class="PatchOperationReplace">
