@@ -843,6 +843,7 @@
 		<building>
 			<isInert>true</isInert>
 			<ai_chillDestination>false</ai_chillDestination>
+			<paintable>true</paintable>
 		</building>
 		<researchPrerequisites>
 			<li>Construction_B1</li>
